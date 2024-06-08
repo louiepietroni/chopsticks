@@ -1,3 +1,3 @@
 def run():
-    a = "this"
-    print(a)
+    string = "this"
+    print(string)
