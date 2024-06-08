@@ -1,2 +1,3 @@
 def run():
-    print("this")
+    a = "this"
+    print(a)
